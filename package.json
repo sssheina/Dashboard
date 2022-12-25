@@ -1,5 +1,5 @@
 {
-  "name": "chart.js-main",
+  "name": "__new",
   "version": "1.0.0",
   "description": "",
   "main": "bundle.js",
@@ -10,12 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ansi-styles": "^6.2.1",
-    "cloudinary": "^1.33.0",
-    "colors": "^1.4.0",
+    "animejs": "^3.2.1",
     "moment": "^2.29.4"
-  },
-  "devDependencies": {
-    "@types/faker": "^6.6.9"
   }
 }

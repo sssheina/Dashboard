@@ -4,6 +4,8 @@ moment.locale("be");
 console.log(moment.locale("be"));
 document.querySelector(".data").innerHTML = moment().format("LLLL");
 
+const anime = require("animejs");
+
 var ctx = document.getElementById("myChart").getContext("2d");
 var chart = new Chart(ctx, {
   // The type of chart we want to create
@@ -154,4 +156,22 @@ var chart = new Chart(ctx, {
   options: {},
 });
 
-
+anime({
+  targets: ".backlog",
+  translateX: {
+    value: 250,
+    duration: 800,
+  },
+  rotate: {
+    value: 360,
+    duration: 1800,
+    easing: "easeInOutSine",
+  },
+  scale: {
+    value: 2,
+    duration: 1600,
+    delay: 800,
+    easing: "easeInOutQuart",
+  },
+  delay: 250, // All properties except 'scale' inherit 250ms delay
+});
