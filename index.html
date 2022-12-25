@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="be">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./assets/style/normalize.css" />
+    <link rel="stylesheet" href="./assets/style/style.css" />
+        <title>Chart.js</title><link rel="shortcut icon" href="./assets/imges/logo.png" type="image/jpg">  
+  </head>
+
+  <body>
+    <main class="main">
+      <div class="nav">
+        <div class="logotype">
+          <img class="logo" src="./assets/imges/logo.svg" alt="logo" />
+          <h1>Жыццёвы Журнал</h1>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/dashlog.png" alt="backlog" />
+          <span>Прыборная панэль</span>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/backlog.png" alt="backlog" />
+          <span>Бэклог</span>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/backlog.png" alt="logo" />
+          <span>Актыўнасці</span>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/backlog.png" alt="logo" />
+          <span>Даклад</span>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/backlog.png" alt="logo" />
+          <span>Старонкі</span>
+        </div>
+        <div class="logo1">
+          <img class="backlog" src="./assets/imges/backlog.png" alt="logo" />
+          <span>Налады</span>
+        </div>
+        <div class="logo1">
+          <span>Дадаць новае заданне</span>
+          <button class="buttonPlus">&#43;</button>
+        </div>
+      </div>
+
+      <!-- ЦЕНТРАЛЬНЫЙ БЛОК -->
+      <div class="board">
+        <div class="up">
+          <span>Прыборная панэль</span>
+          <div class="data">Дата</div>
+        </div>
+
+		
+        <div class="pinkBlock">
+          <div class="name">
+            <span>Вітаем Разалія Дробышэўская</span>
+            <p class="text">
+              Вы былі найбольш актыўныя ў пятніцу. Вы амаль выканалі свае
+              месячныя мэты. Добры вынік.
+            </p>
+            <button class="buttonPink">Больш падрабязна</button>
+          </div>
+          <img src="./assets/imges/girl.png" alt="girl" class="girl" />
+        </div>
+
+        <div class="middleBlock">
+          <div class="two"><canvas id="myChart2"></canvas></div>
+
+          <div class="violetBlock">
+            <div class="firstViolet">
+              <div class="firstNumber">40+</div>
+              <div class="four"><canvas id="myChart4"></canvas>
+              </div>
+            </div>
+            <div class="secondViolet">
+              <div class="secondNumber">100+</div>
+              <div class="fifth">
+                <canvas id="myChart5"></canvas>
+              </div>
+            </div>
+          </div>
+
+          
+        </div>
+
+        <div class="fraphSection">
+        <div class="one"><canvas id="myChart"></canvas></div>
+        <div class="three"><canvas id="myChart3"></canvas></div>
+      </div>
+
+        <!-- ТРЕТИЙ БЛОК -->
+      </div>
+      <div class="personalData">
+        <span class="textProfile">Профіль</span>
+        <img src="./assets/imges/profile.png" alt="user pictire" class="profilPic">
+        <span id="nameProfile">Разалія Дробышэўская</span>
+        <div class="textProfile">Ваш профіль запоўнены на 80%.</div>
+        <div class="seven"><canvas id="myChart7"></canvas></div>
+        <div id="fake"></div>
+        <span class="textProfile">Паведамлення</span>
+        <div class="mailGroup">
+        <div class="mail"><img class="mailPic" src="./assets/imges/mail.png" alt="mail">
+          <div class="mailName">Праз 3 дні пачынаецца адпачынак</div></div>
+        <div class="mail"><img class="mailPic" src="./assets/imges/mail.png" alt="mail">
+          <div class="mailName">Сёння ўвечары сустрэча з сябрамі</div></div>
+        <div class="mail"><img class="mailPic" src="./assets/imges/mail.png" alt="mail">
+          <div class="mailName">Праз тыдзень Каляды</div></div>
+      </div>
+      </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> -->
+    <script src="./assets/scripts/index.js"></script>
+
+    <!-- <script src="./assets/scripts/index.js"></script> -->
+    <script src="bundle.js"></script>
+  </body>
+</html>

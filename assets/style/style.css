@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;900&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-size: 22px;
+}
+.one,
+.three {
+  width: 400px;
+  background-color: white;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.four,
+.fifth {
+  width: 200px;
+  padding: 20px;
+}
+.seven {
+  width: 400px;
+  align-self: center;
+margin: 20px;
+}
+.two {
+  width: 100%;
+  background-color: white;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 20%;
+}
+.board {
+  width: 60%;
+  background-color: #f2f0ff;
+}
+.personalData {
+  width: 18%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center */
+}
+
+.logotype,
+.logo1 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  margin: 20px;
+}
+.logotype {
+}
+.logo {
+  width: 60px;
+  margin-bottom: 3;
+}
+span {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+}
+.backlog,
+.mailPic {
+  width: 30px;
+  height: 30px;
+}
+.up {
+  display: flex;
+  flex-direction: row;
+  margin: 0px auto;
+  /* gap: 36px; */
+  padding: 20px 68px 20px 68px;
+  justify-content: space-between;
+}
+
+.pinkBlock {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffd8d9;
+  border-radius: 15px;
+  padding: 50px;
+  width: 80%;
+  margin: 20px auto;
+  gap: 30px;
+}
+.middleBlock {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+
+  gap: 50px;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-top: 50px;
+}
+.fraphSection {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  gap: 50px;
+  gap: 50px;
+  width: 80%;
+  padding-top: 50px;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.buttonPlus {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 38px;
+  font-weight: 600;
+  border: none;
+  background-color: #d57a7f;
+  color: white;
+}
+.buttonPlus:hover{
+    background: #FD9AA4;
+  }
+.buttonPink {
+  width: 300px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  background-color: #d57a7f;
+  color: white;
+}
+.buttonPink:hover{
+    background: #FD9AA4;
+  }
+
+.text {
+  width: 60%;
+}
+.girl {
+  width: 300px;
+}
+
+.middleBlock {
+  display: flex;
+  flex-direction: row;
+}
+.firstViolet,
+.secondViolet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.violetBlock {
+  display: flex;
+  flex-direction: column;
+  background-color: #bbbfff;
+  border-radius: 15px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.firstNumber,
+.secondNumber {
+  font-size: 38px;
+  font-weight: 600;
+  color: rgb(88, 88, 88);
+  padding: 15px;
+}
+
+.profilPic {
+  width: 200px;
+  margin: 20px;
+  align-self: center;
+}
+.mail {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  gap: 10px;
+  align-items: center
+}
+
+.textProfile, #nameProfile {
+    align-self: center;
+    margin: 30px 20px 20px 20px;
+}
+.mailGroup {
+    display: flex;
+  flex-direction: column;
+  align-self: center;
+  
+}
+.mailName {
+    font-size: 15px;
+  font-weight: 500;
+}
