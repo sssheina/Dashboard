@@ -41,7 +41,7 @@ margin: 20px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 20%;
+  width: 18%;
 }
 .board {
   width: 60%;
