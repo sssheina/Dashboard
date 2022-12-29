@@ -159,7 +159,7 @@ var chart = new Chart(ctx, {
 anime({
   targets: ".backlog",
   translateX: {
-    value: 263,
+    value: 0,
     duration: 800,
   },
   rotate: {
