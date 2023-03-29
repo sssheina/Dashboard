@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/chart.js-78DBE2?style=for-the-badge&logo=chart.js&logoColor=white">
     <img src="https://img.shields.io/badge/moment.js-4E5754?style=for-the-badge&logo=moment.js&logoColor=white">
     <img src="https://img.shields.io/badge/anime.js-%23E34F26?style=for-the-badge&logo=anime.js&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-8CCB5E?style=for-the-badge&logo=node.js&logoColor=white">
+     <img src="https://img.shields.io/badge/npm-%23E34F26?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 <br>
 <br>
