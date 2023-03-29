@@ -3,13 +3,9 @@
 
 <br>
 
-<p align="center">
-    
-    <img src="https://img.shields.io/github/stars/sssheina/Dashboard">
-    
-</p>
+## Tech Stack:
 
-<p align="center">Tech Stack:</p>
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -34,7 +30,7 @@ The app was created as part of a training project.
 I wanted to give meaning and idea to this project, so I made it in Belarusian to increase the visibility and accessibility of this language on the web.
 
 <br>
-<br>
+
 
 ## Brief overview video:
 >For a brief you can watch the following video:
