@@ -64,12 +64,6 @@ I wanted to implement this project as best I could. I had a hard time finding a 
 <br>
 
 
-## What's next for GTD planner
-
-We would like to keep working, create a useful application and collaborate with more community members to develop the backend part of the project. And do user authorisation for better usability.
-<br>
-<br>
-
 
 ## Contacts
 
