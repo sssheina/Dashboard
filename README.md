@@ -4,9 +4,9 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/issues/sssheina/ITGirl-Project-JS">
-    <img src="https://img.shields.io/github/forks/sssheina/ITGirl-Project-JS">
-    <img src="https://img.shields.io/github/stars/sssheina/ITGirl-Project-JS">
+    <img src="https://img.shields.io/github/issues/sssheina/Dashboard">
+    <img src="https://img.shields.io/github/forks/sssheina/Dashboard">
+    <img src="https://img.shields.io/github/stars/sssheina/Dashboard">
     
 </p>
 
@@ -63,32 +63,11 @@ I wanted to implement this project as best I could. I had a hard time finding a 
 <br>
 <br>
 
-## Accomplishments that we're proud of
-
-
-<br>
-<br>
 
 ## What's next for GTD planner
 
 We would like to keep working, create a useful application and collaborate with more community members to develop the backend part of the project. And do user authorisation for better usability.
 <br>
-<br>
-
-## 😎 Project Maintainer
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/sssheina"><img src="https://avatars.githubusercontent.com/u/108290460?v=4" width="100px;" alt=""/><br /><sub><b>Veta Sheina</b></sub></a></td></tr>
-</table>
-<br>
-
-
-## Thanks to all Contributors 💪
-Thanks a lot for spending your time helping GTD planner grow. Thanks a lot! Keep rocking!
-
-[![Contributors](https://contrib.rocks/image?repo=sssheina/ITGirl-Project-JS)](https://github.com/sssheina/ITGirl-Project-JS/graphs/contributors)
-
 <br>
 
 
