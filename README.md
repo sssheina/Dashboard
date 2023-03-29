@@ -4,8 +4,7 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/issues/sssheina/Dashboard">
-    <img src="https://img.shields.io/github/forks/sssheina/Dashboard">
+    
     <img src="https://img.shields.io/github/stars/sssheina/Dashboard">
     
 </p>
