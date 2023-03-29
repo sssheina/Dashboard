@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/108290460/228518872-2b1f18b8-fddc-4b78
 <br>
 <br>
 
-## View our Website:
+## View this Page:
 >Click the image below to view our website!
 
 
