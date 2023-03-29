@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/chart.js-78DBE2?style=for-the-badge&logo=chart.js&logoColor=white">
     <img src="https://img.shields.io/badge/moment.js-4E5754?style=for-the-badge&logo=moment.js&logoColor=white">
-    <img src="https://img.shields.io/badge/animejs-%23E34F26?style=for-the-badge&logo=animejs&logoColor=white">
+    <img src="https://img.shields.io/badge/anime.js-%23E34F26?style=for-the-badge&logo=anime.js&logoColor=white">
 </p>
 <br>
 <br>
 
-## About The Project
+## About this Page
 
 Dashboard page in Belarusian that displays task data in a beautiful and convenient way. The data is stored in JSON. When developing, 3 libraries were used: Moment.js, Chart.js, Anime.js 
 
@@ -30,7 +30,7 @@ The app was created as part of a training project.
 <br>
 <br>
 
-## Inspiration for the Project
+## Inspiration for the Page
 
 I wanted to give meaning and idea to this project, so I made it in Belarusian to increase the visibility and accessibility of this language on the web.
 
@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/108290460/228518872-2b1f18b8-fddc-4b78
 >Click the image below to view our website!
 
 
-[<img width="700" src="https://user-images.githubusercontent.com/108290460/228018052-faf8762e-eab7-4848-aaa4-cf3165717e54.png"/>](https://sssheina.github.io/ITGirl-Project-JS/)
+[<img width="700" src="https://user-images.githubusercontent.com/108290460/228544078-37ec82db-9f23-419c-8a81-29494460639c.png"/>](https://sssheina.github.io/Dashboard/)
 <br>
 <br>
 
